@@ -3,7 +3,7 @@
 MediCart is a simple yet functional frontend application designed to replicate an online pharmacy. It allows users to browse a list of medicines, add them to a shopping cart, adjust quantities, and proceed to a simulated checkout. The project focuses on demonstrating core e-commerce functionalities and a responsive user interface.
 
 ## Live Demo:
-VISIT LIVE WEBSITE:https://hareeshwar-chowdary-mullapudi.github.io/Medicart/
+VISIT LIVE WEBSITE : https://hareeshwar-chowdary-mullapudi.github.io/Medicart/
 
 ## Built with:
 
